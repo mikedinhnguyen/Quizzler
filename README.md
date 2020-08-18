@@ -13,5 +13,7 @@ Created a trivia quiz app. Used a popular design pattern, MVC and delved more in
 * Understood the difference between value types and reference types. 
 * Compared Swift Classes with Swift Structs and know when to use which
 * Learned about Object Oriented Programming
-* How to refactor code and stay organised
+* How to refactor code and stay organised  
 
+Screenshot below:  
+![quiz](https://github.com/mikedinhnguyen/Quizzler/blob/master/Documentation/quiz_screenshot.png)
