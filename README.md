@@ -15,5 +15,5 @@ Created a trivia quiz app. Used a popular design pattern, MVC and delved more in
 * Learned about Object Oriented Programming
 * How to refactor code and stay organised  
 
-Screenshot below:  
-![quiz](https://github.com/mikedinhnguyen/Quizzler/blob/master/Documentation/quiz_screenshot.png)
+Screenshot below:   
+<img src="https://github.com/mikedinhnguyen/Quizzler/blob/master/Documentation/quiz_screenshot.png" alt="quiz" height="700">
